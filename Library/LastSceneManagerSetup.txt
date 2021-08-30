@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Game4_Naruepon_Laosakul.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
